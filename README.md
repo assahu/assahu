@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @assahu
 - 👀 I’m interested in Java,Python,DevOps,Selenium and many more interesting technologies to learn
-- 🌱 I’m currently learning Selenium Advance
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate in open source projects relating to java
 - 📫 How to reach me 1ashishsahu001@gmail.com
 
